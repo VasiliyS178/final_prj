@@ -1,2 +1,2 @@
-# final_prj
-Final project of the training program on GeekBrains
+Решение задачи прогнозирования цены на недвижимость по заданным параметрам.
+Это итоговый проект по программе обучения на факультете "Аналитики Big Data" на GeekBrains.
